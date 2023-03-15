@@ -1,5 +1,5 @@
 # Logger
-Simple Logger
+Simple Logger, save the log into a file, and has console colors too! 
 
 # Use this
 add jitpack
